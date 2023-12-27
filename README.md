@@ -1,1 +1,1 @@
-# OOC
+In here I implement .h file and .cpp file for my CRC card.our topic  is event photography  management system.my function name is appointment .This contains main program to create the objects of the classes I have written in CRC 
